@@ -1,5 +1,5 @@
 # Tim Fara
-![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![Twitter Badge](https://img.shields.io/badge/-@faratim-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/faratim) ![Linkedin Badge](https://img.shields.io/badge/-timothyfara-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-fara/)
 ---
 
 ## Hi y'all 👋,           
