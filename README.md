@@ -3,7 +3,7 @@
 ---
 
 ## 👋 Hi Y'all        
-I'm Tim, Full Stack Student at 👨‍💻 CareerFoundry and ZTM from South Carolina, USA.  I am working to become a remote web developer at an altruistic company where I can use my 10+ years of experience in leadership, guest experience, and process improvement to contribute on a positive and uplifting team. I want to use my attention to detail, problem solving skills, and commitment to excellence on a team that trusts their people, allows for flexible hours, and works together to make a lasting difference in the world.
+I'm Tim, Full Stack Student at 👨‍💻 CareerFoundry and ZTM from South Carolina, USA.  I am working to become a remote web developer at an altruistic company where I can use my 10+ years of experience in leadership, guest experience, and process improvement to contribute on a positive and uplifting team. I will use my attention to detail, problem solving skills, and commitment to excellence on a team that trusts their people, allows for flexible hours, and works together to make a lasting difference in the world.
 
 ## 🤠 About
 - ＜＞ Full Stack Developer
