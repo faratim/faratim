@@ -1,5 +1,5 @@
 # Tim Fara
-![Twitter Badge](https://img.shields.io/badge/-@faratim-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/faratim) ![Linkedin Badge](https://img.shields.io/badge/-timothyfara-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/timothy-fara/) [![Gmail Badge](https://img.shields.io/badge/-faratim@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:faratim@gmail.com)](mailto:faratim@gmail.com)
+![Twitter Badge](https://img.shields.io/badge/-@faratim-1ca0f1?style=plastic&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/faratim) ![Linkedin Badge](https://img.shields.io/badge/-timothyfara-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tfara) [![Gmail Badge](https://img.shields.io/badge/-faratim@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:faratim@gmail.com)](mailto:faratim@gmail.com)
 ---
 
 ## 👋 Hi Y'all        
